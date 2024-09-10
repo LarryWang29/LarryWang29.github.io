@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Biostatistics, University of Camridge, 2024 - 2027 (expected)
+* MPhil in Data Intensive Science, University of Cambridge, 2023 - 2024 (84.1%, distinction)
+* BSc in Mathematics, Imperial College London, 2020 - 2023 (81.77%, First Class Honours)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dec 2023 - Jul 2024: Postgraduate Research Student
+  * Worked with Dr Ander Biguri from Cambridge Image Analysis (CIA) Group on machine learning for inverse problems
+  * Developed repository implementing state-of-the-art models for Computed Tomography problems
+  * 
 
 * Fall 2015: Research Assistant
   * Github University
