@@ -14,7 +14,9 @@ During undergraduate studies, my interests lie primarily in computational mathem
 Skills
 ======
 Programming languages: Python, R, bash, C++ (basic), Julia (basic)
+
 ML Libararies & best practices: Git, Docker, Pytorch, Scikit-Learn, Conda
+
 Languages: English, Mandarin, French (basic)
 
 <!-- A data-driven personal website
