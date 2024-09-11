@@ -7,9 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Larry Wang, and I am an incoming PhD student in Biostatistics at University of Cambridge. Prior to PhD, I had completed a Bachelor's degree in Mathematics at Imperial College London and a Master's degree in Data Intensive Science at University of Cambridge. During undergraduate studies, my interests lie primarily in computational mathematics, machine learning, statistics, and complex analysis; in my Master's studies, I extended my expertise specifically in machine learning and statistics, as well as their applications in biomedical settings such as CT (Computed Tomography) imaging. My current research interest lie in applications of statistics and machine learning in healthcare.
+Hi! My name is Larry Wang, and I am an incoming PhD student in Biostatistics at University of Cambridge. Prior to PhD, I had completed a Bachelor's degree in Mathematics at Imperial College London and a Master's degree in Data Intensive Science at University of Cambridge.
 
-A data-driven personal website
+During undergraduate studies, my interests lie primarily in computational mathematics, machine learning, statistics, and complex analysis; in my Master's studies, I extended my expertise specifically in machine learning and statistics, as well as their applications in biomedical settings such as CT (Computed Tomography) imaging. My current research interest lie in applications of statistics and machine learning in healthcare.
+
+Skills
+======
+Programming languages: Python, R, bash, C++ (basic), Julia (basic)
+ML Libararies & best practices: Git, Docker, Pytorch, Scikit-Learn, Conda
+Languages: English, Mandarin, French (basic)
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -46,4 +54,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
