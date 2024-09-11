@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Below is a shortened version of my CV.
 
 Education
 ======
