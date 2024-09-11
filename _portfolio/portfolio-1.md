@@ -12,3 +12,5 @@ In this project, I worked with Image Analysis group in Department of Applied Mat
 During the investigation, I developed code repository that implements the proposed architecture and trained the networks on University's supercomputer (CSD3). Performances of trained models were benchmarked against traditional methods used for image reconstruction in Computed Tomography, such as Filtered Backprojection, Total Variation Regularisation, U-Net postprocessing. Docker containerisation was used to ensure consistency across different operating systems. 
 
 On top of implementing the models mentioned in the original paper, I also experimented with two additional models: the Total-Variation Learned Primal Dual model (TV-LPD) and the Continuous Learned Primal Dual model (cLPD). The former incorporates additional regularisation on top of the original LPD algorithm, whilst the latter replaces the convolution blocks in the original network with neural ODE blocks ([Continuous Learned Primal Dual](https://arxiv.org/abs/2405.02478)).
+
+[Link to Repository](https://github.com/LarryWang29/Learned-Primal-Dual)

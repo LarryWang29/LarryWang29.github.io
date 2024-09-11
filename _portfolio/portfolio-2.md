@@ -1,6 +1,6 @@
 ---
 title: "Morphing Diffusion models"
-excerpt: "Diffusion models for digits generation   <br/><img src='/images/CT_image.png'>"
+excerpt: "Diffusion models for digits generation   <br/><img src='/images/Diffusion.png'>"
 collection: portfolio
 ---
 
@@ -13,3 +13,5 @@ $$\mathbf{z_{t}} = \sqrt{\alpha_{t}} \mathbf{x} + \sqrt{1 - \alpha_{t}} \mathbf{
 where $\mathbf{z}$ is a randomly sampled image from the morphing dataset and $\mathbf{x}$ is an image from the original dataset. 
 
 Additionally, I have also experimented with changing the network architecture as well as noise schedulers, which resulted in different qualities in generated images.
+
+[Link to Repository](https://github.com/LarryWang29/Diffusion-Models)
