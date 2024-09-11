@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Larry Wang, and I am an incoming PhD student in Biostatistics at University of Cambridge. Prior to PhD, I had completed a Bachelor's degree in Mathematics at Imperial College London and a Master's degree in Data Intensive Science at University of Cambridge. During undergraduate studies, my interests lie primarily in computational mathematics, machine learning, statistics, and complex analysis; in my Master's studies, I extended my expertise specifically in machine learning and statistics, as well as their applications in biomedical settings such as CT (Computed Tomography) imaging. 
+Hi! My name is Larry Wang, and I am an incoming PhD student in Biostatistics at University of Cambridge. Prior to PhD, I had completed a Bachelor's degree in Mathematics at Imperial College London and a Master's degree in Data Intensive Science at University of Cambridge. During undergraduate studies, my interests lie primarily in computational mathematics, machine learning, statistics, and complex analysis; in my Master's studies, I extended my expertise specifically in machine learning and statistics, as well as their applications in biomedical settings such as CT (Computed Tomography) imaging. My current research interest lie in applications of statistics and machine learning in healthcare.
 
 A data-driven personal website
 ======

@@ -18,14 +18,13 @@ Education
 Work experience
 ======
 * Dec 2023 - Jul 2024: Postgraduate Research Student
-  * Worked with Dr Ander Biguri from Cambridge Image Analysis (CIA) Group on machine learning for inverse problems
-  * Developed repository implementing state-of-the-art models for Computed Tomography problems
-  * 
+  * Worked with Dr Ander Biguri from Cambridge Image Analysis (CIA) Group
+  * Developed repository implementing state-of-the-art machine learning models for Computed Tomography
+  * [Repository link]{https://github.com/LarryWang29/Learned-Primal-Dual} 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2023 - Sep 2023: Software Engineer Intern @ Qomply
+  * Database schema optimisation using Alembic and SQLAlchemy
+  * Creating unit tests and regression tests to ensure code consistency across versions
 
 * Summer 2015: Research Assistant
   * Github University
