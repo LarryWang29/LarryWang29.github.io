@@ -1,6 +1,6 @@
 ---
 title: "Learned Primal Dual Reconstruction for CT imaging"
-excerpt: "Master's thesis investigating deep learning models for image reconstruction in Computed Tomography   1<br/><img src='/images/CT_image.png'>"
+excerpt: "Deep learning models for image reconstruction in Computed Tomography   <br/><img src='/images/CT_image.png'>"
 collection: portfolio
 ---
 
@@ -11,4 +11,4 @@ In this project, I worked with Image Analysis group in Department of Applied Mat
 
 During the investigation, I developed code repository that implements the proposed architecture and trained the networks on University's supercomputer (CSD3). Performances of trained models were benchmarked against traditional methods used for image reconstruction in Computed Tomography, such as Filtered Backprojection, Total Variation Regularisation, U-Net postprocessing. Docker containerisation was used to ensure consistency across different operating systems. 
 
-On top of implementing the models mentioned in the original paper, I also experimented with two additional models: the Total-Variation Learned Primal Dual model (TV-LPD) and the Continuous Learned Primal Dual model (cLPD). The former incorporates additional regularisation on top of the original LPD algorithm, whilst the latter replaces the convolution blocks in the original network with neural ODEs [Continuous Learned Primal Dual](https://arxiv.org/abs/2405.02478).
+On top of implementing the models mentioned in the original paper, I also experimented with two additional models: the Total-Variation Learned Primal Dual model (TV-LPD) and the Continuous Learned Primal Dual model (cLPD). The former incorporates additional regularisation on top of the original LPD algorithm, whilst the latter replaces the convolution blocks in the original network with neural ODE blocks ([Continuous Learned Primal Dual](https://arxiv.org/abs/2405.02478)).
